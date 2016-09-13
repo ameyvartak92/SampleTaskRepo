@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="Styles/style-responsive.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/style.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <header>
+        <div class="header">
+            <div class="title">
+                <h1>
+                    Sample Test Student CRUD Used  "REST Service WEB API"
+                </h1>
+            </div>
+        </div>
+        </header>
+    <section class="wrapper">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </section>
+    <div class="footer">
+    </div>
+    </form>
+</body>
+</html>
