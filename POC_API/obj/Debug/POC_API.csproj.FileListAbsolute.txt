@@ -1,0 +1,12 @@
+C:\Users\bhavesh\Desktop\PocWCFandCRUD\POC_WCF\POC_API\bin\POC_API.dll
+C:\Users\bhavesh\Desktop\PocWCFandCRUD\POC_WCF\POC_API\bin\POC_API.pdb
+C:\Users\bhavesh\Desktop\PocWCFandCRUD\POC_WCF\POC_API\obj\Debug\POC_API.dll
+C:\Users\bhavesh\Desktop\PocWCFandCRUD\POC_WCF\POC_API\obj\Debug\POC_API.pdb
+C:\Users\bhavesh\Desktop\PocWCFandCRUD\POC_API\bin\POC_API.dll
+C:\Users\bhavesh\Desktop\PocWCFandCRUD\POC_API\bin\POC_API.pdb
+C:\Users\bhavesh\Desktop\PocWCFandCRUD\POC_API\obj\Debug\POC_API.dll
+C:\Users\bhavesh\Desktop\PocWCFandCRUD\POC_API\obj\Debug\POC_API.pdb
+C:\Users\home\Documents\Visual Studio 2015\sm\PocWCFandCRUD\PocWCFandCRUD\POC_API\bin\POC_API.dll
+C:\Users\home\Documents\Visual Studio 2015\sm\PocWCFandCRUD\PocWCFandCRUD\POC_API\bin\POC_API.pdb
+C:\Users\home\Documents\Visual Studio 2015\sm\PocWCFandCRUD\PocWCFandCRUD\POC_API\obj\Debug\POC_API.dll
+C:\Users\home\Documents\Visual Studio 2015\sm\PocWCFandCRUD\PocWCFandCRUD\POC_API\obj\Debug\POC_API.pdb
